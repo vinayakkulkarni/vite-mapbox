@@ -2,6 +2,7 @@
   <div class="container">
     <div>
       <Logo />
+      <v-mapbox></v-mapbox>
       <h1 class="title">vite-mapbox</h1>
       <div class="links">
         <a
